@@ -12,3 +12,6 @@ var Tweets = [
     "Never gonna give you up, never gonna let you down",
 ];
 
+for(var i = 0; i < 10; i ++) {
+    console.log(Tweets[i]);
+}
